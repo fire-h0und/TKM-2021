@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name keyboard_parts_tmk)(type KiCad)(uri /home/cest/doc/tech/custom_keyboards/tmk/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name kicad_lib_tmk-master)(type KiCad)(uri /home/cest/doc/tech/custom_keyboards/tmk/kicad_lib_tmk-master)(options "")(descr ""))
+  (lib (name keyboard_parts_coleman)(type KiCad)(uri /home/cest/doc/tech/custom_keyboards/colemarkham/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name Keyboard)(type KiCad)(uri /home/cest/doc/tech/custom_keyboards/stormbard/Keyboard.pretty-master)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid-master)(type KiCad)(uri /home/cest/doc/tech/custom_keyboards/MX_Alps_Hybrid-master)(options "")(descr ""))
+  (lib (name complex_keys2021)(type KiCad)(uri /home/cest/doc/tech/custom_keyboards/complex_keys2021.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri /home/cest/doc/tech/custom_keyboards/ai03/random-keyboard-parts.pretty-master)(options "")(descr ""))
+)

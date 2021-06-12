@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name random-keyboard-parts)(type Legacy)(uri "/home/cest/doc/tech/custom_keyboards/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri /home/cest/doc/tech/custom_keyboards/kicad_lib_tmk-master/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri /home/cest/doc/tech/custom_keyboards/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "/home/cest/doc/tech/custom_keyboards/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts_aio3)(type Legacy)(uri "/home/cest/doc/tech/custom_keyboards/ai03/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)
